@@ -1,0 +1,6 @@
+{
+  "deploy": {
+    "command": "npm run build",
+    "outputDirectory": ".next"
+  }
+}
